@@ -71,7 +71,7 @@ public class ShoppingBill {
         double cgst, sgst, subtotal = 0.0, discount = 0.0;
         char choice = '\0';
         System.out.println("\t\t\t\t--------------------Invoice-----------------");
-        System.out.println("\t\t\t\t\t " + "  " + "Metro Mart Grocery Shop");
+        System.out.println("\t\t\t\t\t " + "  " + "E-Mart Grocery Shop");
         System.out.println("\t\t\t\t\t    I-8 Markaz, Islamabad");
         System.out.println("\t\t\t\t\t" + "   " + "Opposite to Mezan Bank");
 
